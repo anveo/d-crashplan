@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build -t davask/d-crashplan:pro . && \
-docker push davask/d-crashplan:pro
+docker build -t anveo/crashplan:pro . && \
+docker push anveo/crashplan:pro
